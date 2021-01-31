@@ -90,7 +90,7 @@ Markdown ile readme dosyanıza kod parçaları eklemek için ters tırnak “Alt
 
 > ***Mert Çobanov***
 
-[Sizin için oluşturulmuş hazır bir README.md şablonu için tıklayın](https://github.com/sukrucnCbc/Utilities/blob/master/ReadMeTemplate.md)
+[Sizin için oluşturulmuş hazır bir README.md şablonu için tıklayın](https://github.com/sukrucnCbc/How-to-create-README.md/blob/main/ReadmeTemplate.md)
 
 [Linkedin hesabım](https://linkedin.com/in/sukrucancebeci)
 
