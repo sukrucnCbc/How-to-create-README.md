@@ -67,7 +67,7 @@ Sıralı listeler oluşturmak için madde numarasından sonra nokta ve bir boşl
 
 Neredeyse link bırakma işlemiyle aynı adımları uygulamakla beraber, başına ünlem ekleyerek görseller ekleyebilirsiniz.
 
-![Global AI Hub Logo](https://globalaihub.com/wp-content/uploads/2020/01/Global_Ai_Hub_cropped.png)
+![Global AI Hub Logo](https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png)
 
 
 
